@@ -1,0 +1,7 @@
+services:
+  portfolio:
+    build: .
+    ports:
+      - "8086:80"
+    container_name: portfolio-talisson
+    restart: unless-stopped
