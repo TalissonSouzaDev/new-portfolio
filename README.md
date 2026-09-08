@@ -22,6 +22,8 @@ npm run preview
 
 ## Publicar na Vercel (plano gratuito)
 
+Atualização de deploy: 2026-09-08.
+
 ### Caminho 1 — pelo GitHub (recomendado)
 
 1. Crie um repositório novo no GitHub, por exemplo `portfolio`.
